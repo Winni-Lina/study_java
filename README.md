@@ -12,7 +12,7 @@ Java 학습 가이드
 
 Python: print("Hello, World!")  
 Java: System.out.println("Hello, World!");  
-C: printf("Hello, World!\n");  
+C: printf("Hello, World!");  
 
 ----------------------------------------
 
